@@ -1,4 +1,4 @@
-# Digit Recognizer
+# Digit Recognizer - Python Flask Web App
 
 ![Project Image](images/main_01.gif)
 
@@ -24,7 +24,7 @@ A convolutional neural network model trained to recognize digits and deployed us
 - Flask
 
 
-[Back To The Top](#digit-recognizer)
+[Back To The Top](#digit-recognizer---python-flask-web-app)
 
 ---
 
@@ -35,7 +35,7 @@ A convolutional neural network model trained to recognize digits and deployed us
 3. Install requirements
 4. Run run.py
 
-[Back To The Top](#digit-recognizer)
+[Back To The Top](#digit-recognizer---python-flask-web-app)
 
 ---
 
@@ -43,7 +43,7 @@ A convolutional neural network model trained to recognize digits and deployed us
 
 - 
 
-[Back To The Top](#digit-recognizer)
+[Back To The Top](#digit-recognizer---python-flask-web-app)
 
 ---
 
@@ -54,4 +54,4 @@ A convolutional neural network model trained to recognize digits and deployed us
 - LinkedIn - [Mohammed A. Al-Maamari
 ](https://www.linkedin.com/in/mohammed-maamari)
 
-[Back To The Top](#digit-recognizer)
+[Back To The Top](#digit-recognizer---python-flask-web-app)
