@@ -36,6 +36,7 @@ A convolutional neural network model trained to recognize digits and deployed us
 4. Run run.py
 
 [Back To The Top](#digit-recognizer)
+
 ---
 
 ## References
@@ -43,6 +44,7 @@ A convolutional neural network model trained to recognize digits and deployed us
 - 
 
 [Back To The Top](#digit-recognizer)
+
 ---
 
 ## Author Info
