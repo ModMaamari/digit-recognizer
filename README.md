@@ -9,7 +9,6 @@
 - [Description](#description)
 - [How To Use](#how-to-use)
 - [References](#references)
-- [License](#license)
 - [Author Info](#author-info)
 
 ---
@@ -36,3 +35,21 @@ A convolutional neural network model trained to recognize digits and deployed us
 3. Install requirements
 4. Run run.py
 
+[Back To The Top](#digit-recognizer)
+---
+
+## References
+
+- 
+
+[Back To The Top](#digit-recognizer)
+---
+
+## Author Info
+
+- Twitter - [@ModMaamari](https://twitter.com/ModMaamari)
+- Medium - [Mohammed AL-Ma'amari](https://medium.com/@mamarih1)
+- LinkedIn - [Mohammed A. Al-Maamari
+](https://www.linkedin.com/in/mohammed-maamari)
+
+[Back To The Top](#digit-recognizer)
