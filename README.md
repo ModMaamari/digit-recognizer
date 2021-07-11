@@ -43,7 +43,9 @@ A convolutional neural network model trained to recognize digits and deployed us
 
 ## References
 
-- 
+- [Deploy Machine Learning Projects Online Using Flask](https://mamarih1.medium.com/deploy-machine-learning-projects-online-using-flask-ecdec4c023bb)
+- [Python Flask Tutorial](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
+- [Flask Tutorial](https://www.youtube.com/watch?v=mqhxxeeTbu0)
 
 [Back To The Top](#digit-recognizer---python-flask-web-app)
 
