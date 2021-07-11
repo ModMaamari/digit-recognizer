@@ -1,5 +1,7 @@
 # Digit Recognizer - Python Flask Web App
 
+> This repository is an example project used to demonstrate the use of Flask to deploy machine learning (More on this in [Deploy Machine Learning Projects Online Using Flask](https://mamarih1.medium.com/deploy-machine-learning-projects-online-using-flask-ecdec4c023bb))
+
 ![Project Image](images/main_01.gif)
 
 ---
